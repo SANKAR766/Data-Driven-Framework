@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-26T05:57:12 PDT" name="Default suite" finished-at="2025-08-26T06:00:29 PDT" duration-ms="197298">
+    <groups>
+    </groups>
+    <test started-at="2025-08-26T05:57:12 PDT" name="Default test" finished-at="2025-08-26T06:00:29 PDT" duration-ms="197298">
+      <class name="testNG.DataDrivenUsingJxl">
+        <test-method signature="data(java.lang.String,java.lang.String)[pri:0, instance:testNG.DataDrivenUsingJxl@7586beff]" started-at="2025-08-26T05:57:13 PDT" name="data" data-provider="Testdata" finished-at="2025-08-26T05:58:32 PDT" duration-ms="78875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method signature="data(java.lang.String,java.lang.String)[pri:0, instance:testNG.DataDrivenUsingJxl@7586beff]" started-at="2025-08-26T05:58:32 PDT" name="data" data-provider="Testdata" finished-at="2025-08-26T05:59:17 PDT" duration-ms="44269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method signature="data(java.lang.String,java.lang.String)[pri:0, instance:testNG.DataDrivenUsingJxl@7586beff]" started-at="2025-08-26T05:59:17 PDT" name="data" data-provider="Testdata" finished-at="2025-08-26T05:59:48 PDT" duration-ms="30978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method signature="data(java.lang.String,java.lang.String)[pri:0, instance:testNG.DataDrivenUsingJxl@7586beff]" started-at="2025-08-26T05:59:48 PDT" name="data" data-provider="Testdata" finished-at="2025-08-26T06:00:29 PDT" duration-ms="41691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- testNG.DataDrivenUsingJxl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
